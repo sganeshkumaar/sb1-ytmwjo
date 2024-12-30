@@ -1,0 +1,1 @@
+export { DUTResultCard } from './DUTResultCard';
